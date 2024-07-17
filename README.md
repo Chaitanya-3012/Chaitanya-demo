@@ -1,2 +1,4 @@
 # Chaitanya-demo
-this is a demo repo for learning purposes !!
+This is a demo repo for learning purposes !!
+<br>
+Author Chaitanya Nevse
